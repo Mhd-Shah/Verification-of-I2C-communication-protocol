@@ -10,5 +10,5 @@ Done port in _I2C controller_ is turned to active high when the transaction is c
 newd in _I2C controller_ is turned to active high when there is new data to send.
 
 _click here_<br>
-**Design_code**<br>
+**[Design_code](https://github.com/Mhd-Shah/Verification-of-I2C-communication-protocol/blob/main/design.sv)**<br>
 **testbench_code**<br>
